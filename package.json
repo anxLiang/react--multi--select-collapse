@@ -1,0 +1,30 @@
+{
+  "name": "module-dev",
+  "version": "0.1.0",
+  "private": true,
+  "abs_homepage": "http://localhost:8181/OrderPage/UUI/pages/reactTest",
+  "homepage": "./",
+  "dependencies": {
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "bee-overlay": "^1.0.14",
+    "bee-tooltip": "^1.0.8",
+    "immutable": "^3.8.2",
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0",
+    "node-sass": "^4.9.3",
+    "react-json-editor-ajrm": "^2.5.8",
+    "sass-loader": "^7.1.0",
+    "tinper-bee": "^1.6.0"
+  }
+}
